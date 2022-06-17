@@ -1,0 +1,10 @@
+{
+    "ip": "OnlyPlayKingdom.aternos.me",
+    "port": "50630",
+    "name": "Jawad22",
+    "webserverport": "8080",
+    "auto-reconnect": "true",
+    "login-enabled": "false",
+    "register-cmd": "/register {password} {password}",
+    "login-cmd": "/login {password}"
+}
